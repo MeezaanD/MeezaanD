@@ -9,6 +9,7 @@ I'm Meezaan Davids, a passionate and dedicated software developer with a strong 
 - **Vue.js**
 - **React.js**
 - **Node.js**
+- **Laravel**
 - **HTML**
 - **CSS**
 - **Bootstrap**
