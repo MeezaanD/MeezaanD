@@ -1,32 +1,34 @@
-# 👨‍💻 Meezaan Davids - Software Developer  
+# Meezaan Davids - Software Developer
 
-## About Me  
-I'm Meezaan Davids, a passionate and dedicated software developer with a strong enthusiasm for crafting high-quality software solutions. I believe that technology has the power to transform the world, and I'm committed to being a part of that transformation.  
+Full-Stack Developer based in Cape Town. I build clean, scalable applications that ship.
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack  
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square)
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+**Mobile**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat-square)
 
-### Databases  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
-### Others  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+## Connect
 
----
-
-## 📫 Contact  
-
-If you'd like to get in touch with me or discuss potential collaborations, please feel free to reach out:  
-- **Email:** [meezaandavids365@gmail.com](mailto:meezaandavids365@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/meezaan-davids-4a7aa8265/](https://www.linkedin.com/in/meezaan-davids-4a7aa8265/)  
-
----
-
-## ✨ Let's connect and create innovative solutions together!  
+📧 [meezaandavids365@gmail.com](mailto:meezaandavids365@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/meezaan-davids-4a7aa8265/)
