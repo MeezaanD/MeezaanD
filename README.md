@@ -5,5 +5,5 @@ Software Developer based in Cape Town. I build clean, scalable applications that
 ## Connect
 
 📧 [meezaandavids365@gmail.com](mailto:meezaandavids365@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/meezaan-davids/)
-🕸️ [Website](https://meezaan.dev/)
+🕸️ [Meezaan.dev](https://meezaan.dev/) <br/>
+💼 [LinkedIn](https://www.linkedin.com/in/meezaan-davids/) 
